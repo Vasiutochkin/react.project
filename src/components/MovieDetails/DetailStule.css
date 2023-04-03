@@ -14,10 +14,11 @@
     border-bottom: 6px solid #EE9B00;
 }
 
-
 .box-1{
     display: flex;
-    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
     height: 100vh;
 }
 

@@ -12,9 +12,9 @@
     width: 100%;
 }
 .movies-container img{
-    width: 350px;
-    height: 550px;
     border-radius: 18px;
+    height: 470px;
+    width: 330px;
 }
 
 .movies-container h3, .movies-container img{

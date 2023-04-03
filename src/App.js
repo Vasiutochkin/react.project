@@ -7,6 +7,7 @@ const App = () => {
     return (
         <div>
             <NavBar/>
+            <h2>Шо ти голоВА??????</h2>
             <Routes>
                 <Route path='' element={<MoviesPage/>}/>
                 <Route path=':movieId' element={<MovieDetailsPage/>}/>

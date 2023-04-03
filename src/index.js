@@ -13,7 +13,7 @@ const store = setupStore();
 
 root.render(
     <Provider store={store}>
-        <BrowserRouter basename="/react.project">
+        <BrowserRouter basename= "/react.project">
             <App/>
         </BrowserRouter>
     </Provider>

@@ -1,0 +1,19 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.mainBgColorGenres{
+    background-color:#0c1e25;
+    width: 100%;
+}
+.secondaryBgColorGenres{
+    background-color: rgb(139, 166, 178);
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

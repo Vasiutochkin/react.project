@@ -1,0 +1,46 @@
+.movies-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.mainBgColor{
+    background-color:#0c1e25;
+    width: 100%;
+}
+.secondaryBgColor{
+    background-color: #e0ded2;
+    width: 100%;
+}
+.movies-container img{
+    width: 350px;
+    height: 550px;
+    border-radius: 18px;
+}
+
+.movies-container h3, .movies-container img{
+    cursor: pointer;
+    transition: .7s;
+}
+.movies-container img:hover{
+    transform: scale(1.05);
+}
+
+.pages {
+    background-color: rgba(90, 110, 117, 0.8);
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    transition: .7s;
+    color: #eac786;
+
+
+}
+.pages_black{
+    background-color: #788b93;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    transition: .7s;
+    color: #020202;
+}
+

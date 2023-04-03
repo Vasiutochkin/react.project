@@ -1,0 +1,30 @@
+.tag:hover{
+    transform: scale(1.05);
+    color: #EE9B00;
+    border-bottom: 4px solid #EE9B00;
+    padding-bottom: 4px;
+}
+
+.tag{
+    padding:10px 15px;
+    color: #eac786;
+    border-radius: 10px;
+    margin:5px;
+    display:inline-block;
+}
+
+.tag_black{
+    padding:10px 15px;
+    color: #131313;
+    border-radius: 10px;
+    margin:5px;
+    display:inline-block;
+    font-size: 20px;
+}
+
+.tag_black:hover{
+    transform: scale(1.05);
+    color: #000000;
+    border-bottom: 6px solid #31312a;
+    padding-bottom: 4px;
+}
